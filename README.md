@@ -7,7 +7,7 @@ Shiv Patel - sup53@pitt.edu
 
 Julianna Kruse - @pitt.edu
 
-Matthew Smith - @pitt.edu
+Matthew Smith - mas928@pitt.edu
 
 **Description and links to the datasets used**
 
