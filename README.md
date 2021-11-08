@@ -9,6 +9,6 @@ Julianna Kruse - @pitt.edu
 
 Matthew Smith - @pitt.edu
 
-**Description and links to the datasets used
-**
+**Description and links to the datasets used**
+
 **An Abstract**
