@@ -18,4 +18,6 @@ Cemetery Outlines Dataset:  https://data.wprdc.org/dataset/allegheny-county-ceme
 
 Vacant Addresses Database: https://data.wprdc.org/dataset/vacant-addresses
 
+Older Houses Database: https://data.wprdc.org/dataset/pre-1950-housing
+
 **An Abstract**
