@@ -5,7 +5,7 @@ CMPINF 0010 Final Project Group 26
 
 Shiv Patel - sup53@pitt.edu
 
-Julianna Kruse - juk99@pitt.edu
+Julianne Kruse - juk99@pitt.edu
 
 Matthew Smith - mas928@pitt.edu
 
