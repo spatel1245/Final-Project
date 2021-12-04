@@ -13,6 +13,7 @@ Matthew Smith - mas928@pitt.edu
 
 
 Cemetery Outlines Dataset:  https://data.wprdc.org/dataset/allegheny-county-cemetery-outlines1
+Census Blocks Dataset (used with cemetery data):   https://data.wprdc.org/dataset/allegheny-county-census-blocks-20161
 
 Vacant Addresses Database: https://data.wprdc.org/dataset/vacant-addresses
 
