@@ -20,3 +20,4 @@ Vacant Addresses Database: https://data.wprdc.org/dataset/vacant-addresses
 Older Houses Database: https://data.wprdc.org/dataset/pre-1950-housing
 
 **An Abstract**
+  This notebook found the best neighborhood in Pittsburgh to be a Ghostbuster in is Central Lawrenceville. We used pandas as well as the three WPRDC datasets listed above; Cemetry Outlines, Vacant Addresses, and Older Houses, to determine this metric.
